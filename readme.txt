@@ -7,3 +7,4 @@
   `git branch`
 
 4. You should see two branches listed: `main` and `new-branch`. The `new-branch` branch should have an asterisk to the left of it. This indicates that this is the branch you're currently on.
+attempt 547ish. damn it!
